@@ -1,7 +1,7 @@
-# job_analysis
+# Data Science Job analysis in the United States
 ![GIF image-C3D7FF2C78EC-1](https://user-images.githubusercontent.com/79353291/153075160-8b9befdb-11c5-49cc-a10e-afef0dbf1a73.gif)
 # Analysis Objectives
-* Analyze and vsualize data science job market in the United states
+* Analyze and vsualize data science job market in the United States
 
 
 # Dataset that will be utilized
@@ -43,9 +43,9 @@
 # Exploratory data analysis 
 * [The notebook for data exploratory data analysis](https://github.com/raminstad/job_analysis/blob/main/EDA.ipynb)
 ## NLP and word cloud
-* In order to visualizew a wordcloud plot, I had to use the Nltk libraary to clean the text for job description
-* The methods for text cleaning were : expanding contractions, stop words removal,lemmatization
-* Wordcloud plot to visualize the most frequent words
+* In order to visualize a wordCloud plot, I had to use the Nltk library to clean the text for job description
+* The methods for text cleaning were : expanding contractions, stop words removal, and lemmatization
+* WordCloud plot to visualize the most frequent words
 ![download (1)](https://user-images.githubusercontent.com/79353291/153083567-b871596e-48cd-47dd-9ec8-fd2feea91171.png)
 
 ## Folium
