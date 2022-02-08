@@ -23,5 +23,6 @@
 
 ## Methods of collecting the data
 * [The notebook for webscraping](https://github.com/raminstad/job_analysis/blob/main/Web_Scraping.ipynb)
-* The webscraping for this projoct consists of 2 steps: 
-* 
+# The webscraping for this projoct consists of 2 steps: 
+* step 1: scraping title, company name, location, salary, and the url for each specific job posting 
+* step 2: scraping the job description by using the url for specific job
