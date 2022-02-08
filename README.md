@@ -47,4 +47,6 @@
 * Visualizing number of job positing in the cities and states
 * Building an interactive Folium map to visualize where are the job positings located
 * <img width="1903" alt="Screen Shot 2022-02-08 at 1 54 09 PM" src="https://user-images.githubusercontent.com/79353291/153082238-cdb735d5-ded8-40a7-916e-7d10c839534f.png">
+*<img width="1454" alt="Screen Shot 2022-02-08 at 1 57 24 PM" src="https://user-images.githubusercontent.com/79353291/153082587-1b0a4612-3c7e-4585-a600-29a29bc37ebe.png">
+
 
