@@ -40,11 +40,15 @@
 * Adding attributes for required knowledge of skills in data science such as Python,SQL,Machine learning and etc., from the job description attribute
 * Adding degree requirement attribute from the job posting 
 * Adding latitude and longitude attribute from the city name by using Geopy library
-# Exploratory data analysis
+# Exploratory data analysis 
 * [The notebook for data exploratory data analysis](https://github.com/raminstad/job_analysis/blob/main/EDA.ipynb)
-* Visualizing the correlation of demanding skills and degree requirement
-* Visualizing the demanding skills
-* Visualizing number of job positing in the cities and states
+## NLP and word cloud
+* In order to visualizew a wordcloud plot, I had to use the Nltk libraary to clean the text for job description
+* The methods for text cleaning were : expanding contractions, stop words removal,lemmatization
+* Wordcloud plot to visualize the most frequent words
+* ![download (1)](https://user-images.githubusercontent.com/79353291/153083567-b871596e-48cd-47dd-9ec8-fd2feea91171.png)
+
+### Folium
 * Building an interactive Folium map to visualize where are the job positings located
 * <img width="1903" alt="Screen Shot 2022-02-08 at 1 54 09 PM" src="https://user-images.githubusercontent.com/79353291/153082238-cdb735d5-ded8-40a7-916e-7d10c839534f.png">
 * <img width="1454" alt="Screen Shot 2022-02-08 at 1 57 24 PM" src="https://user-images.githubusercontent.com/79353291/153082587-1b0a4612-3c7e-4585-a600-29a29bc37ebe.png">
