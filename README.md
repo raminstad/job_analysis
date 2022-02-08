@@ -43,6 +43,5 @@
 # Exploratory data analysis
 * [The notebook for data exploratory data analysis](https://github.com/raminstad/job_analysis/blob/main/EDA.ipynb)
 * visualizing the correlation of demanding skills and degree requirement
-* ![corr](https://user-images.githubusercontent.com/79353291/153080992-d4b0c0fa-2f49-49a2-8e1a-2b7eaf652e28.png)
+![corr](https://user-images.githubusercontent.com/79353291/153081039-e9e8f308-ce59-43f3-8976-48ff418ea62f.png)
 
-* 
