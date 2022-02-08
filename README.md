@@ -22,4 +22,4 @@
 * Wordcloud 
 
 ## Methods of collecting the data
-* [The notebook for webscraping] (https://github.com/raminstad/job_analysis/blob/main/Web_Scraping.ipynb)
+* [The notebook for webscraping](https://github.com/raminstad/job_analysis/blob/main/Web_Scraping.ipynb)
