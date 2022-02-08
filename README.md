@@ -42,6 +42,9 @@
 * Adding latitude and longitude attribute from the city name by using Geopy library
 # Exploratory data analysis
 * [The notebook for data exploratory data analysis](https://github.com/raminstad/job_analysis/blob/main/EDA.ipynb)
-* visualizing the correlation of demanding skills and degree requirement
-![corr](https://user-images.githubusercontent.com/79353291/153081354-db41735e-c340-4eeb-94ee-bc46125a977e.png)
+* Visualizing the correlation of demanding skills and degree requirement
+* Visualizing the demanding skills
+* Visualizing number of job positing in the cities and states
+* Building an interactive Folium map to visualize where are the job positings located
+* <img width="1903" alt="Screen Shot 2022-02-08 at 1 54 09 PM" src="https://user-images.githubusercontent.com/79353291/153082238-cdb735d5-ded8-40a7-916e-7d10c839534f.png">
 
