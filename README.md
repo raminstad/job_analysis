@@ -1,12 +1,12 @@
 # Data Science Job analysis in the United States
 ![GIF image-C3D7FF2C78EC-1](https://user-images.githubusercontent.com/79353291/153075160-8b9befdb-11c5-49cc-a10e-afef0dbf1a73.gif)
 # Analysis Objectives
-* Analyze and vsualize data science job market in the United States
+* Analyze and visualize data science job market in the United States
 
 
 # Dataset that will be utilized
 
-* Scraping indeed.com for the data science job positons and making it into a dataframe
+* Scraping indeed.com for the data science job positions and making it into a dataframe
 
 
 # Potential Packages
